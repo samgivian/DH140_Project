@@ -4,6 +4,8 @@
 
 ### Journal or newspaper article that relates data science to a humanities  with visualization 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samgivian/DH140_Project.git/HEAD)
+
 [AI that can learn the patterns of human language](https://news.mit.edu/2022/ai-learn-patterns-language-0830).
 I'm intersted in making chatbots that are capable of talking as good as humans, and eventually maybe even pass the Turing test. I think humans are predictable to a good degree and machine learning will be able to predict us very well in future.
 
